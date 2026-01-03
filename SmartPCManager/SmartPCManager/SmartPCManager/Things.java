@@ -1,0 +1,6 @@
+package SmartPCManager;
+
+enum Things{
+    CPU, MOTHER_BOARD, GPU, RAM, CASING,
+
+}

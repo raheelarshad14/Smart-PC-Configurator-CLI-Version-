@@ -1,0 +1,11 @@
+-------------------------------------
+           Smart PC Manager          
+-------------------------------------
+CPU:   AMD Ryzen 5 2600 (15000)
+MOBO:  Biostar B450MH (19000)
+RAM:   TeamGroup T-Force Vulcan Z (5500)
+GPU:   AMD Radeon RX 5500 XT (38000)
+CASE:  Aigo Darkflash A290 (9500)
+-------------------------------------
+TOTAL: Rs. 87000
+-------------------------------------
